@@ -46,6 +46,12 @@ This is a simple calculator application built using JavaFX. It allows users to p
 -   **Calculate Result:** Click the "=" button to evaluate the expression and display the result.
 -   **Clear Input:** Click the "AC" button to clear the input field and reset the calculator.
 -   **Delete Last Character:** Click the "C" button to delete the last character of the input field.
+  
+## Screenshot
+
+Here's a screenshot of the calculator application:
+
+![Screenshot 2025-01-26 231131](https://github.com/user-attachments/assets/e29c4e4e-14e5-4bd4-a69a-16aecb40ce11)
 
 ## Notes
 
